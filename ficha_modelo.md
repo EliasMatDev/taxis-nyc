@@ -18,7 +18,7 @@ Por tiempo, nunca al azar: se entrena con el pasado y se prueba con la semana si
 
 El modelo le gana a «igual que hace una semana» por 0.4 puntos porcentuales: una ventaja pequeña. Por día, gana en 5 de 7 días de la semana de prueba. **Su valor está en el rango de incertidumbre**, que la regla simple no da: el rango del 80 % (de p10 a p90) cubre el **80.8%** de las horas reales, cuando debería cubrir cerca del 80 %.
 
-Con costos de $40 por pasajero perdido y $10 por taxi ocioso (cuantil óptimo 0.80), enviar el cuantil recomendado cuesta $2,219,390 en la semana de prueba, contra $2,831,730 del pronóstico central (22% menos) y $3,160,950 de «igual que hace una semana» (30% menos).
+Con costos de USD 40 por pasajero perdido y USD 10 por taxi ocioso (cuantil óptimo 0.80), enviar el cuantil recomendado cuesta USD 2,219,390 en la semana de prueba, contra USD 2,831,730 del pronóstico central (22% menos) y USD 3,160,950 de «igual que hace una semana» (30% menos).
 
 ## Dónde se equivoca más
 - Por tipo de zona, el error es mayor en **«Barrios residenciales de baja demanda»** (38.2%, solo 3 zonas pronosticadas, con unos 6 viajes por hora: con pocos viajes el ruido pesa más) y menor en **«Centro de alta demanda»** (15.9%, 44 zonas).
