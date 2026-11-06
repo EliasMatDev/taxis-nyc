@@ -2,7 +2,7 @@
 
 Pronóstico de viajes de taxi amarillo por zona y hora (con incertidumbre), segmentación de zonas y una recomendación de cuántos taxis enviar, en una app de Streamlit que consulta su propia API.
 
-**Integrantes:** _(completar con los nombres de la pareja)_
+**Entrega individual de:** _(nombre de quien entrega)_
 
 ## Enlaces
 
