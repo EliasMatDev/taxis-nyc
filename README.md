@@ -8,9 +8,9 @@ Pronóstico de viajes de taxi amarillo por zona y hora (con incertidumbre), segm
 
 | Qué | Enlace |
 |---|---|
-| App (Streamlit Community Cloud) | _(completar)_ |
-| API (Render) | _(completar)_ — su documentación abre en `/docs` |
-| Repositorio (GitHub) | _(completar)_ |
+| App (Streamlit Community Cloud) | https://taxis-nyc-pronostico.streamlit.app |
+| API (Render) | https://taxis-nyc-api-n599.onrender.com — su documentación abre en [`/docs`](https://taxis-nyc-api-n599.onrender.com/docs) |
+| Repositorio (GitHub) | https://github.com/EliasMatDev/taxis-nyc |
 
 > La API está en el plan gratuito de Render: se duerme tras 15 minutos sin uso y tarda cerca de un minuto en despertar. La app lo explica con un mensaje si no responde.
 
